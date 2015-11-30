@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\change_scene.js">
+    <Files>
+      <File FileName="Assets\script\achdesfourguide.cs" Line="8" Column="1" />
+      <File FileName="Assets\script\achievedesguide.cs" Line="145" Column="15" />
+      <File FileName="Assets\script\pushbox.cs" Line="125" Column="1" />
+      <File FileName="Assets\script\change_scene.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
